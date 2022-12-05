@@ -1,0 +1,21 @@
+#Following are the pre-requisite libraries to be installed
+
+streamlit
+wikipediaapi
+nltk
+re
+warnings
+gensim
+pickle
+time
+pandas
+os
+cv2
+sklearn
+pickle
+numpy
+numpy as np
+matplotlib.pyplot
+os
+math
+speech_recognition
